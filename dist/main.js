@@ -1,1 +1,0 @@
-console.log("Teri maa ki chut");
